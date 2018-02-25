@@ -1,8 +1,6 @@
 runtime: python27
 api_version: 1
 threadsafe: true
-qweasd: asdzxc
-newfeature: 42
 handlers:
 - url: /.*
   script: main.app
