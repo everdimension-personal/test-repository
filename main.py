@@ -1,5 +1,7 @@
 import webapp2
 
+print 'Start...'
+
 class MainPage(webapp2.RequestHandler):
     def get(self):
         print 'hello'
